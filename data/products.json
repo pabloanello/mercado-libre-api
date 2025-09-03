@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "MLA123456789",
+    "title": "iPhone 13 Pro Max 256GB Plata",
+    "price": 149999,
+    "originalPrice": 159999,
+    "currency": "ARS",
+    "condition": "new",
+    "category": "Celulares y Teléfonos",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_123456-MLA123456789_123456-O.webp",
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_123456-MLA123456789_123456-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_234567-MLA123456789_234567-O.webp"
+    ],
+    "description": "iPhone 13 Pro Max. Pantalla Super Retina XDR de 6.7 pulgadas. Chip A15 Bionic. Sistema de cámaras Pro con nuevo sensor de 12 MP.",
+    "specifications": [
+      {
+        "name": "Marca",
+        "value": "Apple"
+      },
+      {
+        "name": "Modelo",
+        "value": "iPhone 13 Pro Max"
+      },
+      {
+        "name": "Almacenamiento",
+        "value": "256GB"
+      },
+      {
+        "name": "Color",
+        "value": "Plata"
+      }
+    ],
+    "seller": {
+      "id": "seller123",
+      "name": "TecnoStore Oficial",
+      "reputation": 4.8,
+      "totalSales": 12500,
+      "positiveReviews": 98,
+      "responseRate": 95,
+      "responseTime": "menos de 2 horas"
+    },
+    "stock": 25,
+    "soldQuantity": 342,
+    "reviews": [
+      {
+        "id": "rev1",
+        "userId": "user456",
+        "userName": "María González",
+        "rating": 5,
+        "comment": "Excelente producto, llegó en perfecto estado y antes de lo esperado.",
+        "date": "2024-01-15T00:00:00.000Z",
+        "verifiedPurchase": true
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "userId": "user789",
+        "userName": "Carlos López",
+        "question": "¿Incluye cargador?",
+        "answer": "Hola! No incluye cargador, solo el cable USB-C a Lightning.",
+        "date": "2024-01-10T00:00:00.000Z"
+      }
+    ],
+    "shipping": {
+      "freeShipping": true,
+      "estimatedDelivery": "3-5 días hábiles",
+      "returns": true
+    },
+    "warranty": "12 meses",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Test Product",
+    "description": "This is a test product",
+    "price": 100,
+    "stock": 10,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/image1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "1kg"
+      }
+    ],
+    "id": "MLA948054569",
+    "createdAt": "2025-09-01T11:14:42.547Z",
+    "updatedAt": "2025-09-01T11:14:42.547Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Single Product",
+    "description": "This is a single test product",
+    "price": 200,
+    "stock": 5,
+    "category": "Books",
+    "images": [
+      "http://example.com/book1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Pages",
+        "value": "300"
+      }
+    ],
+    "id": "MLA812766606",
+    "createdAt": "2025-09-01T11:14:42.562Z",
+    "updatedAt": "2025-09-01T11:14:42.562Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Updated Product Name",
+    "description": "Original description",
+    "price": 75,
+    "stock": 5,
+    "category": "Tools",
+    "images": [
+      "http://example.com/tool.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Material",
+        "value": "Steel"
+      }
+    ],
+    "id": "MLA886458724",
+    "createdAt": "2025-09-01T11:14:42.568Z",
+    "updatedAt": "2025-09-01T11:14:42.570Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product with Questions",
+    "description": "This product will receive questions",
+    "price": 300,
+    "stock": 3,
+    "category": "Toys",
+    "images": [
+      "http://example.com/toy.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Age",
+        "value": "3+"
+      }
+    ],
+    "id": "MLA215625382",
+    "createdAt": "2025-09-01T11:14:42.586Z",
+    "updatedAt": "2025-09-01T11:14:42.586Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "What materials is this made of?",
+        "userId": "testUser1",
+        "userName": "Test User",
+        "id": "q1756725282589",
+        "date": "2025-09-01T11:14:42.589Z"
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Answer",
+    "description": "This product will have its question answered",
+    "price": 400,
+    "stock": 2,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/electronics.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Power",
+        "value": "100W"
+      }
+    ],
+    "id": "MLA418151768",
+    "createdAt": "2025-09-01T11:14:42.594Z",
+    "updatedAt": "2025-09-01T11:14:42.597Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "How long is the warranty?",
+        "userId": "testUser2",
+        "userName": "Test User 2",
+        "id": "q1756725282596",
+        "date": "2025-09-01T11:14:42.596Z",
+        "answer": "1 year warranty."
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product for Review",
+    "description": "This product will be reviewed",
+    "price": 500,
+    "stock": 1,
+    "category": "Books",
+    "images": [
+      "http://example.com/book_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Author",
+        "value": "Jane Doe"
+      }
+    ],
+    "id": "MLA395712998",
+    "createdAt": "2025-09-01T11:14:42.602Z",
+    "updatedAt": "2025-09-01T11:14:42.603Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "userName": "Reviewer1",
+        "id": "rev1756725282603",
+        "date": "2025-09-01T11:14:42.603Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Update Review",
+    "description": "This product will have its review updated",
+    "price": 600,
+    "stock": 4,
+    "category": "Movies",
+    "images": [
+      "http://example.com/movie_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Director",
+        "value": "John Doe"
+      }
+    ],
+    "id": "MLA009153252",
+    "createdAt": "2025-09-01T11:14:42.609Z",
+    "updatedAt": "2025-09-01T11:14:42.612Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent movie!",
+        "userName": "MovieFan1",
+        "id": "rev1756725282611",
+        "date": "2025-09-01T11:14:42.611Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Delete Review",
+    "description": "This product will have its review deleted",
+    "price": 700,
+    "stock": 1,
+    "category": "Games",
+    "images": [
+      "http://example.com/game.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Platform",
+        "value": "PC"
+      }
+    ],
+    "id": "MLA792477807",
+    "createdAt": "2025-09-01T11:14:42.617Z",
+    "updatedAt": "2025-09-01T11:14:42.620Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Test Product",
+    "description": "This is a test product",
+    "price": 100,
+    "stock": 10,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/image1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "1kg"
+      }
+    ],
+    "id": "MLA656475872",
+    "createdAt": "2025-09-01T11:14:48.108Z",
+    "updatedAt": "2025-09-01T11:14:48.108Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Single Product",
+    "description": "This is a single test product",
+    "price": 200,
+    "stock": 5,
+    "category": "Books",
+    "images": [
+      "http://example.com/book1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Pages",
+        "value": "300"
+      }
+    ],
+    "id": "MLA387958603",
+    "createdAt": "2025-09-01T11:14:48.127Z",
+    "updatedAt": "2025-09-01T11:14:48.127Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Updated Product Name",
+    "description": "Original description",
+    "price": 75,
+    "stock": 5,
+    "category": "Tools",
+    "images": [
+      "http://example.com/tool.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Material",
+        "value": "Steel"
+      }
+    ],
+    "id": "MLA900656363",
+    "createdAt": "2025-09-01T11:14:48.133Z",
+    "updatedAt": "2025-09-01T11:14:48.135Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product with Questions",
+    "description": "This product will receive questions",
+    "price": 300,
+    "stock": 3,
+    "category": "Toys",
+    "images": [
+      "http://example.com/toy.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Age",
+        "value": "3+"
+      }
+    ],
+    "id": "MLA108758778",
+    "createdAt": "2025-09-01T11:14:48.148Z",
+    "updatedAt": "2025-09-01T11:14:48.148Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "What materials is this made of?",
+        "userId": "testUser1",
+        "userName": "Test User",
+        "id": "q1756725288150",
+        "date": "2025-09-01T11:14:48.150Z"
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Answer",
+    "description": "This product will have its question answered",
+    "price": 400,
+    "stock": 2,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/electronics.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Power",
+        "value": "100W"
+      }
+    ],
+    "id": "MLA479272051",
+    "createdAt": "2025-09-01T11:14:48.155Z",
+    "updatedAt": "2025-09-01T11:14:48.158Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "How long is the warranty?",
+        "userId": "testUser2",
+        "userName": "Test User 2",
+        "id": "q1756725288156",
+        "date": "2025-09-01T11:14:48.156Z",
+        "answer": "1 year warranty."
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product for Review",
+    "description": "This product will be reviewed",
+    "price": 500,
+    "stock": 1,
+    "category": "Books",
+    "images": [
+      "http://example.com/book_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Author",
+        "value": "Jane Doe"
+      }
+    ],
+    "id": "MLA096522268",
+    "createdAt": "2025-09-01T11:14:48.162Z",
+    "updatedAt": "2025-09-01T11:14:48.165Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "userName": "Reviewer1",
+        "id": "rev1756725288165",
+        "date": "2025-09-01T11:14:48.165Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Update Review",
+    "description": "This product will have its review updated",
+    "price": 600,
+    "stock": 4,
+    "category": "Movies",
+    "images": [
+      "http://example.com/movie_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Director",
+        "value": "John Doe"
+      }
+    ],
+    "id": "MLA890012324",
+    "createdAt": "2025-09-01T11:14:48.170Z",
+    "updatedAt": "2025-09-01T11:14:48.173Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent movie!",
+        "userName": "MovieFan1",
+        "id": "rev1756725288172",
+        "date": "2025-09-01T11:14:48.172Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Delete Review",
+    "description": "This product will have its review deleted",
+    "price": 700,
+    "stock": 1,
+    "category": "Games",
+    "images": [
+      "http://example.com/game.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Platform",
+        "value": "PC"
+      }
+    ],
+    "id": "MLA995413425",
+    "createdAt": "2025-09-01T11:14:48.178Z",
+    "updatedAt": "2025-09-01T11:14:48.180Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Test Product",
+    "description": "This is a test product",
+    "price": 100,
+    "stock": 10,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/image1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "1kg"
+      }
+    ],
+    "id": "MLA061598856",
+    "createdAt": "2025-09-01T15:28:20.016Z",
+    "updatedAt": "2025-09-01T15:28:20.016Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Single Product",
+    "description": "This is a single test product",
+    "price": 200,
+    "stock": 5,
+    "category": "Books",
+    "images": [
+      "http://example.com/book1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Pages",
+        "value": "300"
+      }
+    ],
+    "id": "MLA249151666",
+    "createdAt": "2025-09-01T15:28:20.032Z",
+    "updatedAt": "2025-09-01T15:28:20.032Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Updated Product Name",
+    "description": "Original description",
+    "price": 75,
+    "stock": 5,
+    "category": "Tools",
+    "images": [
+      "http://example.com/tool.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Material",
+        "value": "Steel"
+      }
+    ],
+    "id": "MLA101208587",
+    "createdAt": "2025-09-01T15:28:20.038Z",
+    "updatedAt": "2025-09-01T15:28:20.040Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product with Questions",
+    "description": "This product will receive questions",
+    "price": 300,
+    "stock": 3,
+    "category": "Toys",
+    "images": [
+      "http://example.com/toy.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Age",
+        "value": "3+"
+      }
+    ],
+    "id": "MLA470174615",
+    "createdAt": "2025-09-01T15:28:20.057Z",
+    "updatedAt": "2025-09-01T15:28:20.057Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "What materials is this made of?",
+        "userId": "testUser1",
+        "userName": "Test User",
+        "id": "q1756740500059",
+        "date": "2025-09-01T15:28:20.059Z"
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Answer",
+    "description": "This product will have its question answered",
+    "price": 400,
+    "stock": 2,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/electronics.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Power",
+        "value": "100W"
+      }
+    ],
+    "id": "MLA484732262",
+    "createdAt": "2025-09-01T15:28:20.064Z",
+    "updatedAt": "2025-09-01T15:28:20.068Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "How long is the warranty?",
+        "userId": "testUser2",
+        "userName": "Test User 2",
+        "id": "q1756740500066",
+        "date": "2025-09-01T15:28:20.066Z",
+        "answer": "1 year warranty."
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product for Review",
+    "description": "This product will be reviewed",
+    "price": 500,
+    "stock": 1,
+    "category": "Books",
+    "images": [
+      "http://example.com/book_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Author",
+        "value": "Jane Doe"
+      }
+    ],
+    "id": "MLA393721625",
+    "createdAt": "2025-09-01T15:28:20.073Z",
+    "updatedAt": "2025-09-01T15:28:20.074Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "userName": "Reviewer1",
+        "id": "rev1756740500074",
+        "date": "2025-09-01T15:28:20.074Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Update Review",
+    "description": "This product will have its review updated",
+    "price": 600,
+    "stock": 4,
+    "category": "Movies",
+    "images": [
+      "http://example.com/movie_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Director",
+        "value": "John Doe"
+      }
+    ],
+    "id": "MLA772299035",
+    "createdAt": "2025-09-01T15:28:20.080Z",
+    "updatedAt": "2025-09-01T15:28:20.083Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent movie!",
+        "userName": "MovieFan1",
+        "id": "rev1756740500082",
+        "date": "2025-09-01T15:28:20.082Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Delete Review",
+    "description": "This product will have its review deleted",
+    "price": 700,
+    "stock": 1,
+    "category": "Games",
+    "images": [
+      "http://example.com/game.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Platform",
+        "value": "PC"
+      }
+    ],
+    "id": "MLA729723108",
+    "createdAt": "2025-09-01T15:28:20.088Z",
+    "updatedAt": "2025-09-01T15:28:20.091Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Test Product",
+    "description": "This is a test product",
+    "price": 100,
+    "stock": 10,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/image1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "1kg"
+      }
+    ],
+    "id": "MLA103732704",
+    "createdAt": "2025-09-01T16:44:49.989Z",
+    "updatedAt": "2025-09-01T16:44:49.989Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Single Product",
+    "description": "This is a single test product",
+    "price": 200,
+    "stock": 5,
+    "category": "Books",
+    "images": [
+      "http://example.com/book1.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Pages",
+        "value": "300"
+      }
+    ],
+    "id": "MLA086178897",
+    "createdAt": "2025-09-01T16:44:50.005Z",
+    "updatedAt": "2025-09-01T16:44:50.005Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Updated Product Name",
+    "description": "Original description",
+    "price": 75,
+    "stock": 5,
+    "category": "Tools",
+    "images": [
+      "http://example.com/tool.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Material",
+        "value": "Steel"
+      }
+    ],
+    "id": "MLA878969899",
+    "createdAt": "2025-09-01T16:44:50.013Z",
+    "updatedAt": "2025-09-01T16:44:50.015Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product with Questions",
+    "description": "This product will receive questions",
+    "price": 300,
+    "stock": 3,
+    "category": "Toys",
+    "images": [
+      "http://example.com/toy.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Age",
+        "value": "3+"
+      }
+    ],
+    "id": "MLA882528895",
+    "createdAt": "2025-09-01T16:44:50.033Z",
+    "updatedAt": "2025-09-01T16:44:50.033Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "What materials is this made of?",
+        "userId": "testUser1",
+        "userName": "Test User",
+        "id": "q1756745090036",
+        "date": "2025-09-01T16:44:50.036Z"
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Answer",
+    "description": "This product will have its question answered",
+    "price": 400,
+    "stock": 2,
+    "category": "Electronics",
+    "images": [
+      "http://example.com/electronics.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Power",
+        "value": "100W"
+      }
+    ],
+    "id": "MLA816867443",
+    "createdAt": "2025-09-01T16:44:50.041Z",
+    "updatedAt": "2025-09-01T16:44:50.045Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [
+      {
+        "question": "How long is the warranty?",
+        "userId": "testUser2",
+        "userName": "Test User 2",
+        "id": "q1756745090043",
+        "date": "2025-09-01T16:44:50.043Z",
+        "answer": "1 year warranty."
+      }
+    ],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product for Review",
+    "description": "This product will be reviewed",
+    "price": 500,
+    "stock": 1,
+    "category": "Books",
+    "images": [
+      "http://example.com/book_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Author",
+        "value": "Jane Doe"
+      }
+    ],
+    "id": "MLA083691972",
+    "createdAt": "2025-09-01T16:44:50.049Z",
+    "updatedAt": "2025-09-01T16:44:50.051Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "userName": "Reviewer1",
+        "id": "rev1756745090051",
+        "date": "2025-09-01T16:44:50.051Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Update Review",
+    "description": "This product will have its review updated",
+    "price": 600,
+    "stock": 4,
+    "category": "Movies",
+    "images": [
+      "http://example.com/movie_review.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Director",
+        "value": "John Doe"
+      }
+    ],
+    "id": "MLA875664370",
+    "createdAt": "2025-09-01T16:44:50.056Z",
+    "updatedAt": "2025-09-01T16:44:50.060Z",
+    "soldQuantity": 0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent movie!",
+        "userName": "MovieFan1",
+        "id": "rev1756745090058",
+        "date": "2025-09-01T16:44:50.058Z"
+      }
+    ],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  },
+  {
+    "name": "Product to Delete Review",
+    "description": "This product will have its review deleted",
+    "price": 700,
+    "stock": 1,
+    "category": "Games",
+    "images": [
+      "http://example.com/game.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Platform",
+        "value": "PC"
+      }
+    ],
+    "id": "MLA967234136",
+    "createdAt": "2025-09-01T16:44:50.065Z",
+    "updatedAt": "2025-09-01T16:44:50.068Z",
+    "soldQuantity": 0,
+    "reviews": [],
+    "questions": [],
+    "seller": {
+      "id": "default-seller",
+      "name": "Default Seller",
+      "reputation": 0,
+      "totalSales": 0,
+      "positiveReviews": 0,
+      "responseRate": 0,
+      "responseTime": "N/A"
+    },
+    "shipping": {
+      "freeShipping": false,
+      "estimatedDelivery": "N/A",
+      "returns": false
+    }
+  }
+]
