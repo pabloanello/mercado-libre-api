@@ -1,3 +1,5 @@
+![Build Status](https://github.com/pabloanello/mercado-libre-api/actions/workflows/node-ci.yml/badge.svg)
+
 # Mercado Libre Inspired API
 
 A NestJS backend API for item detail pages inspired by Mercado Libre.
